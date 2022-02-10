@@ -109,5 +109,9 @@ smol {
     font-size: smaller;
 }
 smol.title {
-    color: #c0c0c0
+    color: #8f8f8f;
+    padding-bottom: 10px;
+}
+h1.title {
+    padding-bottom: 10px;
 }
