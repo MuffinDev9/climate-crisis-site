@@ -36,10 +36,10 @@ nav ul li {
 nav ul li:last-child {
 	border-right:none;
 }
-nav ul li a {
+a {
 	text-decoration:none;
 	color:#fdfdfd;
-	}
+}
 nav li a:hover {
 	text-decoration: underline;
 }
