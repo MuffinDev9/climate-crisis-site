@@ -45,7 +45,6 @@ nav li a:hover {
 }
 a:active {
 	text-decoration: underline;
-	background-color: black;
 	color: #000000;
 }
 header {
