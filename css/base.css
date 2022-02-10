@@ -105,12 +105,10 @@ body ul li {
 p {
 	padding: 5px;
 }
-smol {
-    font-size: smaller;
-}
-smol.title {
+p.title {
     color: #8f8f8f;
     padding-bottom: 15px;
+	text-align: top;
 }
 h1.title {
     text-decoration: underline;
