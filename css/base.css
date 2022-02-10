@@ -36,7 +36,7 @@ nav ul li {
 nav ul li:last-child {
 	border-right:none;
 }
-a {
+nav ul li a {
 	text-decoration:none;
 	color:#fdfdfd;
 }
@@ -124,4 +124,8 @@ h4.news {
 }
 section.headline {
 	text-align: left;
+}
+p.news a {
+	text-decoration:none;
+	color:#00d3e2;
 }
