@@ -113,10 +113,10 @@ h1.title {
     text-decoration: underline;
 	text-decoration-color: #e2e2e2;
 }
-h2.news {
+h3.news {
 	text-decoration: underline;
 	text-decoration-color: #e2e2e2;
 }
-h3.news {
+h4.news {
 	color: #8f8f8f;
 }
