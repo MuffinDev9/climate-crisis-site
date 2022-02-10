@@ -108,3 +108,6 @@ p {
 smol {
     font-size: 10px;
 }
+smol.title {
+    color: #c0c0c0
+}
