@@ -77,10 +77,6 @@ section ul {
 section ul li {
 	padding-bottom: 15px;
 }
-header img {
-	margin-top: 8px;
-	margin-left: 8px;
-}
 iframe {
 	padding-bottom: 10px;
 }
@@ -128,4 +124,10 @@ section.headline {
 p.news a {
 	text-decoration:none;
 	color:#00d3e2;
+}
+img.title-left {
+	float: left;
+}
+img.title-right {
+	float: right;
 }
