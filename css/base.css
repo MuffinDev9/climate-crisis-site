@@ -114,9 +114,11 @@ h1.title {
 	text-decoration-color: #e2e2e2;
 }
 h3.news {
+	color: #9f9f9f;
 	text-decoration: underline;
-	text-decoration-color: #e2e2e2;
+	text-decoration-color: #9c9c9c;
 }
 h4.news {
 	color: #8f8f8f;
+	text-decoration: none;
 }
