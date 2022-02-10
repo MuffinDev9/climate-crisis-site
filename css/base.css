@@ -122,3 +122,6 @@ h4.news {
 	color: #8f8f8f;
 	text-decoration: none;
 }
+section.headline {
+	text-align: left;
+}
