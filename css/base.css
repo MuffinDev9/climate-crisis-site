@@ -111,7 +111,7 @@ h1.title {
 }
 h3.news {
 	color: #9f9f9f;
-	text-decoration: underline;
+	text-decoration: none;
 	text-decoration-color: #9c9c9c;
 }
 h4.news {
