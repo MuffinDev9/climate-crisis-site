@@ -137,3 +137,8 @@ img.seaweed {
 	max-height: 50%;
 	object-fit: contain;
 }
+img.barnacles {
+	max-width: 30%;
+	max-height: 30%;
+	object-fit: contain;
+}
