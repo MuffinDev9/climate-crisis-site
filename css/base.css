@@ -130,3 +130,8 @@ img.title-left {
 img.title-right {
 	float: right;
 }
+img.seaweed {
+	max-width: 50%;
+	max-height: 50%;
+	object-fit: contain;
+}
