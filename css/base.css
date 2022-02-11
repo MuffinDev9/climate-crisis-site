@@ -134,13 +134,13 @@ img.title-right {
 	float: right;
 }
 img.seaweed {
+	float: center;
 	max-width: 50%;
 	max-height: 50%;
 	object-fit: contain;
-	float: top;
 }
 img.barnacles {
-	float: top;
+	float: center;
 	max-width: 50%;
 	max-height: 50%;
 	object-fit: contain;
