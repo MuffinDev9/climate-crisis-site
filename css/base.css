@@ -121,6 +121,7 @@ h4.news {
 }
 section.headline {
 	text-align: left;
+	min-height: 400px;
 }
 p.news a {
 	text-decoration:none;
