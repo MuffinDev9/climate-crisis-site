@@ -145,3 +145,6 @@ img.barnacles {
 	max-height: 50%;
 	object-fit: contain;
 }
+section.info h2 {
+	text-decoration: double;
+}
