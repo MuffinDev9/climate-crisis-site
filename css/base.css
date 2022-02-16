@@ -157,5 +157,6 @@ p a.blue {
 }
 h2 section-title {
 	font-size: larger;
-	color: #dfdfdf;
+	color: #b6b6b6;
+	text-decoration: none;
 }
