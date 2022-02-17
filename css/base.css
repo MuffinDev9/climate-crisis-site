@@ -169,8 +169,8 @@ ul.climate-list {
 section.consequences {
 	text-align: left;
 }
-img.factory {
-	float: top;
-	width: 50%;
-	height: 50%;
+section img.factory {
+	float: auto;
+	width: auto;
+	height: auto;
 }
