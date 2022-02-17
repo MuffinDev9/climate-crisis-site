@@ -72,12 +72,6 @@ section img {
 	float: left;
 	padding-right: 10px;
 }
-section ul {
-	list-style-type:none;
-}
-section ul li {
-	padding-bottom: 15px;
-}
 iframe {
 	padding-bottom: 10px;
 }
@@ -159,4 +153,8 @@ h2.section-title {
 	font-size: larger;
 	color: #b6b6b6;
 	text-decoration: none;
+}
+ul.climate-list {
+	color: #969696;
+	list-style-type: circle #969696;
 }
