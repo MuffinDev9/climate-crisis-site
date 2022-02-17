@@ -169,3 +169,6 @@ ul.climate-list {
 section.consequences {
 	text-align: left;
 }
+img.factory {
+	float: top;
+}
