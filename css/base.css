@@ -81,6 +81,7 @@ p.fun-fact {
 	padding: 16px;
 	background-color: #2c2c2c;
 	text-align: left;
+	width: auto;
 }
 p.fun-fact::before {
 	color: #ffffff;
