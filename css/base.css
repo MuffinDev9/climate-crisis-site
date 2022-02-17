@@ -171,4 +171,6 @@ section.consequences {
 }
 img.factory {
 	float: top;
+	width: 50%;
+	height: 50%;
 }
